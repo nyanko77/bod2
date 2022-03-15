@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "biawak_bot" //namabot kalian
-global.ownername= "BIAWAK SENSI" //nama kalian
-global.myweb ="NOT" //bebas asal jan hapus
+global.botname = "biawak_sensei" //namabot kalian
+global.ownername= "biawak_bot" //nama kalian
+global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/EzomichiChannel" //bebas asal jan hapus
-global.github = "https://github.com/biawak77/" //bebas
+global.github = "https://github.com/biawak77" //bebas
 global.email = "rokhimf14@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6285155243922" // nomor wa kalian
-global.ownernomerr = "+6281347448534" //nmr wa kalian
+global.ownernomer = "6281347448534" // nomor wa kalian
+global.ownernomerr = "+6281258432454" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6285155243922","6281347448534","6281258432454"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© BIAWAK_SENSEI' //sticker wm ubah
-global.author = 'Di Buat Oleh BIAWAK_SENSEI' //sticker wm ganti nama kalian
+global.owner = ["6281347448534","6281258432454","6285155243922"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© biawak_' //sticker wm ubah
+global.author = 'Di Buat Oleh Biawak_Sensei¥' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
