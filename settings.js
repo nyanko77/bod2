@@ -19,8 +19,8 @@ global.available = false //status online (online)
 
 // Other
 global.botname = "biawak_bot" //namabot kalian
-global.ownername= "BIAWAK SENSI//nama kalian
-global.myweb ="NOT/" //bebas asal jan hapus
+global.ownername= "BIAWAK SENSI" //nama kalian
+global.myweb ="NOT" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/EzomichiChannel" //bebas asal jan hapus
 global.github = "https://github.com/biawak77/" //bebas
 global.email = "rokhimf14@gmail.com" //bebas
