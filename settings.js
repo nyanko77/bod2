@@ -20,7 +20,7 @@ global.available = false //status online (online)
 // Other
 global.botname = "biawak_sensei" //namabot kalian
 global.ownername= "biawak_bot" //nama kalian
-global.myweb ="https://api-alphabot.herokuapp.com/" //bebas asal jan hapus
+global.myweb = "https://youtube.com/c/EzomichiChannel" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/EzomichiChannel" //bebas asal jan hapus
 global.github = "https://github.com/biawak77" //bebas
 global.email = "rokhimf14@gmail.com" //bebas
